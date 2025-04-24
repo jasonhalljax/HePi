@@ -1,7 +1,7 @@
 # HePi
 ## Healthcare Pipeline POC
 
-This is a small healthcare pipeline project for me to practice and demonstrate skills.
+This is a small, fun healthcare pipeline project for me to practice and demonstrate skills.
 
 Steps:
 - Using Python, kick off a Synthea run to create a population of synthetic healthcare patients
